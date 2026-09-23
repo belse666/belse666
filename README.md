@@ -25,20 +25,17 @@ Me apasiona fusionar el análisis numérico profundo con la realidad de la opera
 
 ## Skills
 
-<div align="center">
-
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
-</div>
-
+<p align="center">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="Excel" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="WSL" />
+</p>
 ---
 
 ## 🏆 Mis Proyectos Destacados
 
-* 📡 **[ChurnShield Telecom]([https://github.com](https://github.com/belse666/Telecom-Retention-AI-Sistema-Inteligente-de-Predicci-n-de-Churn.git)):** Sistema Inteligente con **LightGBM** para predecir la baja de clientes, optimizado para clases desbalanceadas y exportado como motor ejecutable (`.pkl`).
-* 🏎️ **[AutoMarket Insights]([https://github.com](https://github.com/belse666/Plataforma-Anal-tica-Interactiva-para-Exploracion-de-Datos-Automotrices.git)):** Aplicación interactiva de análisis de mercado vehicular desplegada en vivo mediante **Streamlit**.
-* 🎮 **[IceGames Analytics]([https://github.com](https://github.com/belse666/IceGames-Analytics-Inteligencia-de-Mercado-y-Modelado-Predictivo-para-la-Industria-de-Videojuegos.git)):** Estudio de inteligencia comercial y validación estadística de hipótesis (*T-Test*) sobre el éxito financiero en la industria de videojuegos.
+* 📡 **[ChurnShield Telecom](https://github.com/belse666/Telecom-Retention-AI-Sistema-Inteligente-de-Prediccion-de-Churn.git):** Sistema Inteligente con **LightGBM** para predecir la baja de clientes, optimizado para clases desbalanceadas y exportado como motor ejecutable (`.pkl`).
+* 🏎️ **[AutoMarket Insights](https://github.com/belse666/Plataforma-Analitica-Interactiva-para-Exploracion-de-Datos-Automotrices.git):** Aplicación interactiva de análisis de mercado vehicular desplegada en vivo mediante **Streamlit**.
+* 🎮 **[IceGames Analytics](https://github.com/belse666/IceGames-Analytics-Inteligencia-de-Mercado-y-Modelado-Predictivo-para-la-Industria-de-Videojuegos.gi):** Estudio de inteligencia comercial y validación estadística de hipótesis (*T-Test*) sobre el éxito financiero en la industria de videojuegos.
