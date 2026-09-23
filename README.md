@@ -9,14 +9,7 @@
 
 ### ¿Conectamos?
 
-<a href="https://www.linkedin.com/in/abdelcastaneda" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
-</a>
-<a href="mailto:abdel.x@gmail.com" target="_blank">
-  <img src="https://shields.io" alt="Gmail" />
-</a>
-
-</div>
+<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a> <a href="mailto:abdel.x@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail" /></a>
 
 ---
 
